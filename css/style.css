@@ -1,0 +1,29 @@
+.read-more-text{
+    display: none;
+}
+.show{
+    display: block;
+}
+.flex-box{
+    border: 2px solid;
+    display: flex;
+    padding: 0;
+    gap: 4px;
+
+   
+  
+}
+.flex-item{
+    background-color: green;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    color: white;
+    flex: 0 0 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
